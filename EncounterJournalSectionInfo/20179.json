@@ -1,0 +1,1 @@
+{"abilityIcon":237587,"creatureDisplayID":0,"description":"站立不动时会在玩家身体中叠加。移动时，|cffffffff缓刑|r会根据叠加的层数造成自然伤害并重置计数。持续时间结束时，|cffffffff缓刑|r造成法令中剩余的伤害。","filteredByDifficulty":false,"headerType":2,"link":"|cff66bbff|Hjournal:2:20179:14|h[缓刑]|h|r","siblingSectionID":20184,"spellID":297564,"startsOpen":false,"title":"缓刑","uiModelSceneID":0}

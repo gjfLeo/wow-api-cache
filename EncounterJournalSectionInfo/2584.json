@@ -1,0 +1,1 @@
+{"abilityIcon":132103,"creatureDisplayID":0,"description":"狂脸随机扑向一个目标，将他击倒在地，使其昏迷并开始凶猛地爪击。爪击最初每0.5秒造成0点物理伤害，但伤害会随着时间而增长。当使用这个技能时，狂脸受到的所有攻击均为爆击。\r\n狂脸只有在目标死亡，或者受到总生命值的6.5%的伤害时，才会停止爪击。","filteredByDifficulty":false,"headerType":2,"link":"|cff66bbff|Hjournal:2:2584:14|h[抓狂]|h|r","siblingSectionID":2585,"spellID":0,"startsOpen":false,"title":"抓狂","uiModelSceneID":0}

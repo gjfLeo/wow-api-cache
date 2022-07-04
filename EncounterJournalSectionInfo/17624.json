@@ -1,0 +1,1 @@
+{"abilityIcon":134063,"creatureDisplayID":0,"description":"为施法者恢复50%的总生命值。这是一个在施法者生命值过低时触发的自动修理过程。如果所有三个部件都在激活自动修理之前被摧毁，则修理过程会中断，施法者被永久摧毁。","filteredByDifficulty":false,"headerType":2,"link":"|cff66bbff|Hjournal:2:17624:14|h[自我维修]|h|r","spellID":64383,"startsOpen":false,"title":"自我维修","uiModelSceneID":0}

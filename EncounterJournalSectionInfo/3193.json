@@ -1,0 +1,1 @@
+{"creatureDisplayID":0,"description":"四个矮人魔像共享生命值，在指定时间内每次会激活两个。当魔像激活时，它有100点能量来使用技能。当魔像的能量降到50时，它会获得一个防御护盾，同时一个新的魔像也会激活。当魔像的能量用光后，它就会消失，而激活另一个魔像。","filteredByDifficulty":true,"headerType":0,"link":"|cff66bbff|Hjournal:2:3193:14|h[第一防御矩阵]|h|r","siblingSectionID":3194,"spellID":0,"startsOpen":true,"title":"第一防御矩阵","uiModelSceneID":0}

@@ -1,0 +1,1 @@
+{"abilityIcon":236168,"creatureDisplayID":0,"description":"用星座标记玩家。被标记为相同星座的玩家相互接触时将清除他们的星座标记。被标记为不同星座的玩家相互接触，则会触发星象三角效果。\r\n\r\n如果星座标记在持续时间内没有被移除，同样会触发星象三角效果。","filteredByDifficulty":true,"firstChildSectionID":13032,"headerType":2,"link":"|cff66bbff|Hjournal:2:13029:14|h[强力联结]|h|r","siblingSectionID":13033,"spellID":205408,"startsOpen":false,"title":"强力联结","uiModelSceneID":0}

@@ -1,0 +1,1 @@
+{"abilityIcon":132338,"creatureDisplayID":0,"description":"死神5000随机选择一个玩家所在的位置，然后朝该位置移动。在移动时，它持续对自己正前方60度角的锥形区域、半径8码内的所有目标造成915点物理伤害。当死神5000抵达既定位置后，就会进行一次横扫收割攻击。这种攻击对周围半径10码范围内的所有敌人造成4,579点物理伤害，并将他们击退。","filteredByDifficulty":true,"headerType":2,"link":"|cff66bbff|Hjournal:2:2033:14|h[收割]|h|r","siblingSectionID":2034,"spellID":0,"startsOpen":false,"title":"收割","uiModelSceneID":0}

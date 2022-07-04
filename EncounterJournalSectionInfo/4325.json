@@ -1,0 +1,1 @@
+{"abilityIcon":254883,"creatureDisplayID":0,"description":"哈格拉随机对一名玩家施放霜冻，使其移动速度降低10%，并且每1秒降低额外10%，持续15秒。当霜冻效果结束时，它对玩家造成相当于其最大生命值25%的伤害，并在该玩家脚下形成一个半径为10码的霜冻区域。任何处于该霜冻区域的玩家的移动速度降低50%。","filteredByDifficulty":true,"headerType":2,"link":"|cff66bbff|Hjournal:2:4325:14|h[霜冻]|h|r","spellID":0,"startsOpen":false,"title":"霜冻","uiModelSceneID":0}
